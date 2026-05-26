@@ -2,7 +2,7 @@
 
 GCC-focused interview prep: **mock HR screens** (type or **speak**), **recruiter-style scoring**, **resume** and **LinkedIn** help, plus a **public landing**. Stack: Next.js (App Router), TypeScript, Tailwind, Prisma, pluggable LLMs.
 
- ![Image Alt]([image_url](https://github.com/vaibhavraghuvanshi/falconHire/blob/08dcf7b5819c1e68947604020ead5fd8178f0d2b/Project_Screenshot/Screenshot%202026-05-24%20at%209.54.49%CE%93%C3%87%C2%BBpm.png))
+ ![Image Alt]([image_url](https://github.com/vaibhavraghuvanshi/falconHire/blob/2618aa34b65ce46aa3c93afe7af7c53cad9d0e33/Project_Screenshot/landingScreen.png)
 
 **On this page:** [Quick start](#quick-start-try-the-mvp) · [MVP at a glance](#mvp-feature-list-at-a-glance) · [Interview flow](#mock-interview-suggested-flow) · [Shipped checklist](#mvp-checklist-whats-shipped) · [Roadmap](#roadmap-next) · [Development](#development) · [Environment variables](#environment-variables)
 
